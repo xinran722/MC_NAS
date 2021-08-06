@@ -1,6 +1,5 @@
 
 # NAS
-
 * xinran 2018 CVPR - MobileNetV2: Inverted Residuals and Linear Bottlenecks
 * xinran 2018 ICLR - Hierarchical representations for efficient architecture search
 * xinran 2019 CVPR - MnasNet：Platform-Aware Neural Architecture Search for Mobile
@@ -15,3 +14,8 @@
 * xinran 2020 CVPR - FBNetV2: Differentiable Neural Architecture Search for Spatial and Channel Dimensions
 * xinran 2020 AAAI - Efficient neural architecture search via proximal iterations
 * xinran 2020 ECCV - Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search
+
+# COMPRESSION 
+* xinran 2018 ECCV - AMC: AutoML for Model Compression and Acceleration on Mobile Devices
+* xinran 2019 ICLR - Rethinking the Value of Network Pruning
+
