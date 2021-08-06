@@ -1,6 +1,6 @@
 
 # NAS
-* xinran 2018 CVPR - MobileNetV2: Inverted Residuals and Linear Bottlenecks
+* xinran 2018 CVPR - [MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sandler_MobileNetV2_Inverted_Residuals_CVPR_2018_paper.pdf)
 * xinran 2018 ICLR - Hierarchical representations for efficient architecture search
 * xinran 2019 CVPR - MnasNet：Platform-Aware Neural Architecture Search for Mobile
 * xinran 2019 ICLR - ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware
