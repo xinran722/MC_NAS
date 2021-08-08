@@ -18,4 +18,5 @@
 # COMPRESSION 
 * xinran 2018 ECCV - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)
 * xinran 2019 ICLR - [Rethinking the Value of Network Pruning](https://openreview.net/pdf?id=rJlnB3C5Ym)
+* xinran 2019 ICML - [Rethinking Model Scaling for Convolutional Neural Networks](https://proceedings.mlr.press/v97/tan19a/tan19a.pdf)
 
