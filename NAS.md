@@ -19,3 +19,4 @@ Architecture Search](https://www.semanticscholar.org/paper/FairNAS%3A-Rethinking
 * xinran 2019 ICLR - [Rethinking the Value of Network Pruning](https://openreview.net/pdf?id=rJlnB3C5Ym)
 * xinran 2019 ICML - [Rethinking Model Scaling for Convolutional Neural Networks](https://proceedings.mlr.press/v97/tan19a/tan19a.pdf)
 * xinran 2019 ICCV - [MetaPruning：Meta Learning for Automatic Neural Network Channel Pruning](http://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_MetaPruning_Meta_Learning_for_Automatic_Neural_Network_Channel_Pruning_ICCV_2019_paper.pdf)[旷视]
+* xinran 2018 ECCV NetAdapt: Platform-Aware Neural Network Adaptation for Mobile Applications
