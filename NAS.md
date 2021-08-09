@@ -14,7 +14,7 @@
 * xinran 2019 - [FairNAS: Rethinking Evaluation Fairness of Weight Sharing Neural
 Architecture Search](https://www.semanticscholar.org/paper/FairNAS%3A-Rethinking-Evaluation-Fairness-of-Weight-Chu-Zhang/a7ce95c6f674b7b5b19a532491d160d142f8b2d6)[小米]
 
-# COMPRESSION 
+# COMPRESSION (Pruning)
 * xinran 2018 ECCV - [AMC: AutoML for Model Compression and Acceleration on Mobile Devices](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.pdf)[MIT Han]
 * xinran 2019 ICLR - [Rethinking the Value of Network Pruning](https://openreview.net/pdf?id=rJlnB3C5Ym)
 * xinran 2019 ICML - [Rethinking Model Scaling for Convolutional Neural Networks](https://proceedings.mlr.press/v97/tan19a/tan19a.pdf)
